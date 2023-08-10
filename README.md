@@ -4,8 +4,10 @@
   <a href="mailto:iamdeepak91@gmail.com">📧 iamdeepak91@gmail.com</a> •
   📞 +91 9466046938 •
   📍 Jharkhand, IN •
-  <a href="https://deepakresume.github.com">🔗 deepakresume.github.com</a>
+  <a href="https://iamdeepak92.github.io/myresume" target="_blank">🔗 https://iamdeepak92.github.io/myresume</a>
 </p>
+
+
 
 ---
 
